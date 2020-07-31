@@ -1,0 +1,1 @@
+It is a blood donation system built using java servlet.
